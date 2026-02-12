@@ -73,3 +73,4 @@ Tests use Vitest + jsdom + React Testing Library. Mocks are set up with `vi.mock
 - Path alias: `@/*` maps to `src/*`
 - `src/generated/prisma/` is auto-generated — do not edit
 - Use comments sparingly. Only comment complex code.
+
