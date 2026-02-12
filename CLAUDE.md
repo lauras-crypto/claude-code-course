@@ -72,3 +72,4 @@ Tests use Vitest + jsdom + React Testing Library. Mocks are set up with `vi.mock
 - UI components use shadcn/ui (new-york style) with `cn()` utility from `clsx` + `tailwind-merge`
 - Path alias: `@/*` maps to `src/*`
 - `src/generated/prisma/` is auto-generated — do not edit
+- Use comments sparingly. Only comment complex code.
